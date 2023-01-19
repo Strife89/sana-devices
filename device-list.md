@@ -3,10 +3,15 @@
 ## Smartphones
 
 - hatterene: Apple iPhone 12 Pro, 128 GB
-- girugarudo64: Moto X4 Android One Edition, 64 GB of storage + 4 GB of RAM
+- girugarudo64: Moto X4 Android One Edition, 64 GB of storage + 4 GB of RAM (XT1900-1)
 - girugarudo 32: Moto X4 Android One Edition, 32 GB of storage + 3 GB of RAM
 - wooloo: iPhone SE 2nd generation, 64 GB
-- 
+- mafokushii [Delphox]: Motorola Droid Turbo (XT1254)
+- sukorupi [Skorupi]: Motorola Droid RAZR M (XT907)
+- armorga [Corviknight]: LG G5 - US unlocked (rs988)
+- giaru [Klink]: LG Ally
+- fushigisou [Ivysuar]: HTC myTouch 3G (“Magic”)
+- ninfia [Sylveon]: Palm Treo 700p
 
 ## Laptops
 
