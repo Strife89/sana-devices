@@ -38,4 +38,11 @@
 - kodora [Lairon]: Mac Mini 2,1 (2007) (A1176)
 - kodakku [Psyduck]: eMachines W3107
 
+ ## Microcomputers
+ 
+ - pichuu: Raspberry Pi Zero (PCB v1.3)
+ - pikachuu: Raspberry Pi 1, Model B
+ - raichuu: Raspberry Pi 3
+ - sandaasu [Jolteon]: Raspberry Pi Zero W (v1.1)
+ - mahoippu [Alcremie]: Raspberry Pi 4, 4 GB of RAM
  
