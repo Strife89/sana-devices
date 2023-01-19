@@ -2,7 +2,11 @@
 
 ## Smartphones
 
-- hatterene: Apple iPhone 12 Pro
+- hatterene: Apple iPhone 12 Pro, 128 GB
+- girugarudo64: Moto X4 Android One Edition, 64 GB of storage + 4 GB of RAM
+- girugarudo 32: Moto X4 Android One Edition, 32 GB of storage + 3 GB of RAM
+- wooloo: iPhone SE 2nd generation, 64 GB
+- 
 
 ## Laptops
 
