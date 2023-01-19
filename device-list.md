@@ -50,4 +50,28 @@
 
 - komoruu [Shelgon]: Ace Iconia Tab A200
 - kaenjishi [Pyroar]: Samsung Galaxy Tab S2 8.0 (SM-T710) (gts28wifi)
-- wailord: iPad 5th generation, 32 GB 
+- wailord: iPad 5th generation, 32 GB
+
+## PDAs
+
+— manyula [Weavile]: Palm T|X
+- jibacoil [Magnezone]: Palm LifeDrive
+- rarecoil [Magneton]: Palm Tungsten E|2
+- enperuto [Empoleon]: Palm Zire 72
+- unnamed: Palm Zire 71
+- metagurosu [Metagross]: HP iPAQ hx4700
+
+## Game Consoles
+
+- myuutsuu [Mewtwo]: Nintendo Switch
+- houou [Ho-Oh]: Nintendo Wii U (Deluxe)
+- rugia [Lugia]: Nintendo Wii
+- saniigo: Nintendo DSi (pink)
+- faiyaa: Nintendo 3DS (flame red)
+- myuu: New Nintendo 2DS XL (white/orange)
+- unnamed: New Nintendo 3DS XL (gold Triforce)
+- unnamed: PlayStation 3 Slim
+- unnamed: PlayStation 4 Slim
+- unnamed: PS TV
+- unnamed: PSP 2000 (Kratos red)
+- bakuuda: Xbox 360 S (black) 
