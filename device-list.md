@@ -45,4 +45,9 @@
  - raichuu: Raspberry Pi 3
  - sandaasu [Jolteon]: Raspberry Pi Zero W (v1.1)
  - mahoippu [Alcremie]: Raspberry Pi 4, 4 GB of RAM
- 
+
+## Tablets
+
+- komoruu [Shelgon]: Ace Iconia Tab A200
+- kaenjishi [Pyroar]: Samsung Galaxy Tab S2 8.0 (SM-T710) (gts28wifi)
+- wailord: iPad 5th generation, 32 GB 
