@@ -18,8 +18,8 @@
 - kiruria [Kirlia]: HP Envy x360m (15m-bp012dx)
 - eefi [Espeon]: Lenovo ThinkPad X201
 - yungerer [Kadabra]: Toshiba Satellite L305D-S5897
-- ametama [Surskit]: Asus Ee 1005HAB
-- Dell Mini 9
+- ametama [Surskit]: Asus Eee 1005HAB
+- unnamed: Dell Mini 9
 - fuecoco: Apple MacBook Pro 5,1 (2008)
 - burakki [Umbreon]: MacBook 2,1 (2006) (A1181)
 - yukimenoko [Froslass]: MacBook 2,1 (2006)
@@ -29,6 +29,13 @@
 - panpujin [Gourgeist]: HP Pavilion dv6-1359wm
 - ranpuraa [Lampent]: HP Pavilion dv6-6172nr
 - namakero [Slakoth]: Toshiba Satellite M105-S3041
+- unnamed: Dell Latitude?
 
 ## Desktops
 
+- saanaito [Gardevoir]: custom desktop
+- goroonya [Golem]: Mac Mini 1,1 (2006) (A1176)
+- kodora [Lairon]: Mac Mini 2,1 (2007) (A1176)
+- kodakku [Psyduck]: eMachines W3107
+
+ 
