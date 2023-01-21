@@ -10,12 +10,15 @@ With your viewer's search function, search for the device's name to jump to the 
 - girugarudo64: Moto X4 Android One Edition (XT1900-1) [^64]
 - girugarudo32: Moto X4 Android One Edition [^32]
 - wooloo: iPhone SE 2nd generation, 64 GB
+- hiidoran: iPhone 5, 16 GB
 - mafokushii [Delphox]: Motorola Droid Turbo (XT1254)
 - sukorupi [Skorupi]: Motorola Droid RAZR M (XT907)
 - armorga [Corviknight]: LG G5 - US unlocked (rs988)
 - giaru [Klink]: LG Ally
+- yuniran: HTC Droid DNA
 - fushigisou [Ivysuar]: HTC myTouch 3G (“Magic”)
 - ninfia [Sylveon]: Palm Treo 700p
+- utsudon: Palm Treo 700w
 
 [^64]: 64 GB of storage + 4 GB of RAM, silver blue color
 [^32]: 32 GB of storage + 3 GB of RAM, black color
@@ -68,7 +71,7 @@ With your viewer's search function, search for the device's name to jump to the 
 - unnamed: Palm Zire 71
 - metagurosu [Metagross]: HP iPAQ hx4700
 
-### Game Consoles
+### Game Consoles (only Wi-Fi equipped ones)
 
 - myuutsuu [Mewtwo]: Nintendo Switch
 - houou [Ho-Oh]: Nintendo Wii U (Deluxe)
