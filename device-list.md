@@ -84,4 +84,25 @@ With your viewer's search function, search for the device's name to jump to the 
 - unnamed: PlayStation 4 Slim
 - unnamed: PS TV
 - unnamed: PSP 2000 (Kratos red)
-- bakuuda: Xbox 360 S (black) 
+- bakuuda: Xbox 360 S (black)
+
+## Smartphones
+
+** Hatterene **
+**Apple iPhone 12 Pro** (MGKG3LL/A)
+- SoC: A14 Bionic
+- CPU:
+- RAM: 
+- GPU:
+- Display: 2532x1170 OLED, 460 ppi, wide color with HDR
+- Storage: 128 GB
+- Camera 1-1:
+- Camera 1-2:
+- Camera 1-3:
+- Camera 2:
+- Wireless:
+- Power: ???? mAh, Li-Ion, Lightning
+- OS: iOS 16.1
+- Acquired: July 2022, from a coworker
+- Daily Driver: July 2022 - present
+- Released:  
