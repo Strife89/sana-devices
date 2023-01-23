@@ -84,4 +84,4 @@ With your viewer's search function, search for the device's name to jump to the 
 - unnamed: PlayStation 4 Slim
 - unnamed: PS TV
 - unnamed: PSP 2000 (Kratos red)
-- bakuuda: Xbox 360 S (black) 
+- bakuuda: Xbox 360 S (black)
